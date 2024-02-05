@@ -10,23 +10,23 @@ In this project, I will build a VQA program using Image Encoders (CNN, ViT, CLIP
 
 ## Dataset
 You can download vqa-coco-dataset [here](https://drive.google.com/file/d/1kc6XNqHZJg27KeBuoAoYj70_1rT92191/view). After that, you should organize the folder structure as follows:
-'''
-Visual_Question_Answering
-|___ data
-|    |___ val2014-resesed
-|    |___ vaq2.0.TrainImages.txt
-|    |___ vaq2.0.DevImages.txt
-|    |___ vaq2.0.TestImages.txt
-|___ CLIP
-|    |___ ...
-|___ CNN_LSTM
-|    |___ ...
-|___ ViT_RoBERTa
-|    |___ ...
-|___ src
-|    |___ ...
-|___ main_CLIP.py
-|___ main_CNN_LSTM.py
-|___ main_ViT_RoBERTa.py
-|___ README.md
-'''
+
+- 📁 Visual_Question_Answering
+  - 📁 data
+    - 📂 val2014-resesed
+    - 📄 vaq2.0.TrainImages.txt
+    - 📄 vaq2.0.DevImages.txt
+    - 📄 vaq2.0.TestImages.txt
+  - 📁 CLIP
+    - ...
+  - 📁 CNN_LSTM
+    - ...
+  - 📁 ViT_RoBERTa
+    - ...
+  - 📁 src
+    - ...
+  - 📄 main_CLIP.py
+  - 📄 main_CNN_LSTM.py
+  - 📄 main_ViT_RoBERTa.py
+  - 📄 README.md
+
