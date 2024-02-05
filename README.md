@@ -6,10 +6,10 @@
 
 In this project, I will build a VQA program using Image Encoders (CNN, ViT, CLIP) for images and Text Encoders (LSTM, RoBERTa, CLIP) for natural language processing. The input and output of the program are as follows: 
 * Input: A pair of image and question in natural language.
-* Output: An answer to the question about the image (yes/no question).
+* Output: An answer to the question about the image (Yes/No questions).
 
 ## Dataset
-You can download vqa-coco-dataset [here](https://drive.google.com/file/d/1kc6XNqHZJg27KeBuoAoYj70_1rT92191/view). After that, you should organize the folder structure as follows:
+You can download the vqa-coco-dataset [here](https://drive.google.com/file/d/1kc6XNqHZJg27KeBuoAoYj70_1rT92191/view). After that, you should organize the folder structure as follows:
 
 - 📁 Visual_Question_Answering
   - 📁 data
