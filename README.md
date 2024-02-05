@@ -26,4 +26,4 @@ You can download vqa-coco-dataset [here](https://drive.google.com/file/d/1kc6XNq
   - 🐍 main_ViT_RoBERTa.py
   - 📄 README.md
 
-![VQA aaaaaaaaaaa Dataset](https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering/assets/127675330/c7374e70-ea97-4c03-aaba-6e2157145c5f)
+![VQA Dataset](https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering/assets/127675330/c7374e70-ea97-4c03-aaba-6e2157145c5f)
