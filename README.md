@@ -6,4 +6,4 @@
 
 In this project, I will build a VQA program using Image Encoders (CNN, ViT, CLIP) for images and Text Encoders (LSTM, RoBERTa, CLIP) for natural language processing. The input and output of the program are as follows: 
 * Input: A pair of image and question in natural language.
-* Output: An answer to the question about the image.
+* Output: An answer to the question about the image (yes/no question).
