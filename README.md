@@ -26,5 +26,9 @@ You can download vqa-coco-dataset [here](https://drive.google.com/file/d/1kc6XNq
   - 🐍 main_ViT_RoBERTa.py
   - 📄 README.md
 
-![VQA Dataset](https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering/assets/127675330/c7374e70-ea97-4c03-aaba-6e2157145c5f)
-*Some sample data in the VQA dataset in the form of Yes/No questions*
+<p align="center">
+  <img width="800" alt="VQA Dataset" src="https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering/assets/127675330/c7374e70-ea97-4c03-aaba-6e2157145c5f">
+</p>
+<p align="center">
+  <em>Some sample data in the VQA dataset in the form of Yes/No questions</em>
+</p>
