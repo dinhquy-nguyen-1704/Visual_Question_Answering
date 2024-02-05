@@ -13,7 +13,7 @@ You can download the vqa-coco-dataset [here](https://drive.google.com/file/d/1kc
 
 - 📁 Visual_Question_Answering
   - 📁 data
-    - 📂 val2014-resesed
+    - 📂 val2014-resised
     - 📄 vaq2.0.TrainImages.txt
     - 📄 vaq2.0.DevImages.txt
     - 📄 vaq2.0.TestImages.txt
