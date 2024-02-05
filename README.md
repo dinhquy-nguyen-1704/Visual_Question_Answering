@@ -9,4 +9,4 @@ In this project, I will build a VQA program using Image Encoders (CNN, ViT, CLIP
 * Output: An answer to the question about the image (yes/no question).
 
 ## Dataset
-[vqa-coco-dataset](https://drive.google.com/file/d/1kc6XNqHZJg27KeBuoAoYj70_1rT92191/view)
+You can download vqa-coco-dataset [here](https://drive.google.com/file/d/1kc6XNqHZJg27KeBuoAoYj70_1rT92191/view)
