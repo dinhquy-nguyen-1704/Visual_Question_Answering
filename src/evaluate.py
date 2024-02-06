@@ -1,4 +1,3 @@
-
 import torch
 
 def evaluate(model, dataloader, criterion):

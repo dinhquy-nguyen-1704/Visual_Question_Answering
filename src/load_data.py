@@ -1,4 +1,3 @@
-
 def load_data(data_path):
     data = []
     path = data_path
