@@ -63,3 +63,11 @@ If you want to use CLIP as the Encoders and MLP for the classifier:
 ```
 python main_ViT_RoBERTa.py --clip_model_type ViT-B-32 --clip_pretrained laion2b_e16
 ```
+
+## 4. Result
+The metric used in this task is accuracy, the result is evaluated on the Test set of the dataset.
+| Image Encoder  | Text Encoder | Accuracy |
+|----------------|--------------|----------|
+| CNN (ResNet50) | BiLSTM       | 90%      |
+| ViT            | RoBERTa      | 63%      |
+| CLIP           | CLIP         | 73%      |
