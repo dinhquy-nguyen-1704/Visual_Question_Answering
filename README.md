@@ -71,3 +71,8 @@ The metric used in this task is accuracy, the result is evaluated on the Test se
 | CNN            | LSTM         | 54%      |
 | ViT            | RoBERTa      | 63%      |
 | CLIP           | CLIP         | 73%      |
+
+## 5. References
+- **AIO2023**  
+
+- **[Hugging Face](https://huggingface.co/)**  
