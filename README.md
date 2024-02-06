@@ -46,6 +46,7 @@ pip install transformers
 pip install open_clip_torch
 ```
 ### 3.2. CNN - LSTM
+If you want to use CNN as Image Encoder and LSTM for Text Encoder as well as classifier:
 ```
 python main_CNN_LSTM.py --cnn_model_name resnet50
 ```
