@@ -73,6 +73,5 @@ The metric used in this task is accuracy, the result is evaluated on the Test se
 | CLIP           | CLIP         | 73%      |
 
 ## 5. References
-- **AIO2023**  
-
-- **[Hugging Face](https://huggingface.co/)**  
+- AIO2023 
+- [Hugging Face](https://huggingface.co/) 
