@@ -49,12 +49,12 @@ pip install transformers
 pip install open_clip_torch
 ```
 ### 3.2. CNN - LSTM
-If you want to use CNN as Image Encoder and LSTM for Text Encoder as well as classifier:
+If you want to use CNN as Image Encoder and LSTM for Text Encoder:
 ```
 python main_CNN_LSTM.py --cnn_model_name resnet50
 ```
 ### 3.3. ViT - RoBERTa
-If you want to use ViT as Image Encoder, RoBERTa for Text Encoder and LSTM as classifier:
+If you want to use ViT as Image Encoder, RoBERTa for Text Encoder:
 ```
 python main_ViT_RoBERTa.py --img_feature_extractor_name google/vit-base-patch16-224 --text_tokenizer_name roberta-base
 ```
