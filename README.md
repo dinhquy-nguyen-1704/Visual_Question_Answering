@@ -73,5 +73,6 @@ The metric used in this task is accuracy, the result is evaluated on the Test se
 | CLIP           | CLIP         | 73%      |
 
 ## 5. References
-- AIO2023 
+- AIO2023
+- [Pytorch](https://pytorch.org/docs/stable/index.html)
 - [Hugging Face](https://huggingface.co/) 
