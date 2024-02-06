@@ -3,7 +3,7 @@
 **Visual Question Answering (VQA)** is a common problem in Machine Learning, applying techniques related to two fields of Computer Vision and Natural Language Processing. The core concept of this problem is to analyze an image and answer a question about that image. The first step is to analyze the input information, including using image processing and natural language processing techniques to handle the question posed. Then, the VQA system will combine the information obtained from the image analysis and the context of the question to create a suitable answer. Therefore, a program with high accuracy needs to build well both of these components, posing a great challenge in solving the problem of question answering with images.
 
 <p align="center">
-  <img width="600" alt="VQA System" src="https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering/assets/127675330/c7374e70-ea97-4c03-aaba-6e2157145c5f>
+  <img width="600" alt="VQA System" src="[https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering/assets/127675330/c7374e70-ea97-4c03-aaba-6e2157145c5f](https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering/assets/127675330/7591bcc0-ae88-4701-bf38-8c4521f60ff1)>
 </p>
 <p align="center">
 
