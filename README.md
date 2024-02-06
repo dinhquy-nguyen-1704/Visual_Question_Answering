@@ -75,4 +75,4 @@ The metric used in this task is accuracy, the result is evaluated on the Test se
 ## 5. References
 - AIO2023
 - [Pytorch](https://pytorch.org/docs/stable/index.html)
-- [Hugging Face](https://huggingface.co/) 
+- [HuggingFace](https://huggingface.co/) 
