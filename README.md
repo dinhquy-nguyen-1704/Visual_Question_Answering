@@ -32,3 +32,17 @@ You can download the vqa-coco-dataset [here](https://drive.google.com/file/d/1kc
 <p align="center">
   <em>Some sample data in the VQA dataset in the form of Yes/No questions</em>
 </p>
+
+## 3. Train models
+First, clone this repo and organize the data as above.
+```
+git clone https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering.git
+cd Visual_Question_Answering
+```
+### 3.1 CNN - LSTM
+```
+pip install timm
+```
+```
+python main_CNN_LSTM.py --cnn_model_name resnet50
+```
