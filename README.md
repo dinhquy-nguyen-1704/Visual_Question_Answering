@@ -61,7 +61,7 @@ python main_ViT_RoBERTa.py --img_feature_extractor_name google/vit-base-patch16-
 ### 3.4. CLIP
 If you want to use CLIP as the Encoders and MLP for the Classifier:
 ```
-python main_ViT_RoBERTa.py --clip_model_type ViT-B-32 --clip_pretrained laion2b_e16
+python main_CLIP.py --clip_model_type ViT-B-32 --clip_pretrained laion2b_e16
 ```
 
 ## 4. Result
