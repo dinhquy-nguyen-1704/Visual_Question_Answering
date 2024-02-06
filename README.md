@@ -51,10 +51,12 @@ If you want to use CNN as Image Encoder and LSTM for Text Encoder as well as cla
 python main_CNN_LSTM.py --cnn_model_name resnet50
 ```
 ### 3.3. ViT - RoBERTa
+If you want to use ViT as Image Encoder, RoBERTa for Text Encoder and LSTM as classifier:
 ```
 python main_ViT_RoBERTa.py --img_feature_extractor_name google/vit-base-patch16-224 --text_tokenizer_name roberta-base
 ```
 ### 3.4. CLIP
+If you want to use CLIP as the Encoders and MLP for the classifier:
 ```
 python main_ViT_RoBERTa.py --clip_model_type ViT-B-32 --clip_pretrained laion2b_e16
 ```
