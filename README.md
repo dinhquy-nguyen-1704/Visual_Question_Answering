@@ -5,8 +5,6 @@
 <p align="center">
   <img width="600" alt="VQA Dataset" src="https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering/assets/127675330/c7374e70-ea97-4c03-aaba-6e2157145c5f>
 </p>
-  <em>VQA system</em>
-</p>
 <p align="center">
 
 In this project, I will build a VQA program using Image Encoders (CNN, ViT, CLIP) for images and Text Encoders (LSTM, RoBERTa, CLIP) for natural language processing. The input and output of the program are as follows: 
