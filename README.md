@@ -39,10 +39,17 @@ First, clone this repo and organize the data as above.
 git clone https://github.com/dinhquy-nguyen-1704/Visual_Question_Answering.git
 cd Visual_Question_Answering
 ```
-### 3.1 CNN - LSTM
+### 3.1. CNN - LSTM
 ```
 pip install timm
 ```
 ```
 python main_CNN_LSTM.py --cnn_model_name resnet50
+```
+## 3.2. ViT - RoBERTa
+```
+pip install transformers
+```
+```
+python main_ViT_RoBERTa.py --img_feature_extractor_name google/vit-base-patch16-224 --text_tokenizer_name roberta-base
 ```
