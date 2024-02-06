@@ -1,4 +1,3 @@
-
 import torch.nn as nn
 from transformers import AutoTokenizer, RobertaModel
 from transformers import ViTModel, ViTImageProcessor

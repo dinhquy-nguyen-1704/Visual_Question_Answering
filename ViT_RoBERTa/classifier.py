@@ -1,4 +1,3 @@
-
 import torch.nn as nn
 
 class Classifier(nn.Module):
