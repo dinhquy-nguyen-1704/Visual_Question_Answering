@@ -75,7 +75,7 @@ The metric used in this task is accuracy, the result is evaluated on the Test se
 | CLIP           | CLIP         | 73%      |
 
 ## 5. Sample
-I have prepared a **sample** folder that includes some pairs of images and related questions. You can quickly test the version using the pretrained CLIP, download the pretrained model [here](https://drive.google.com/file/d/1ImjfxHVFkPXZvwri_MiBNV2OWu5Dl2D1/view?usp=sharing):
+I have prepared a **sample** folder that includes some pairs of images and related questions. You can quickly test the version using the pretrained CLIP, download the pretrained model [here](https://drive.google.com/file/d/1ImjfxHVFkPXZvwri_MiBNV2OWu5Dl2D1/view?usp=sharing) and place it in the **Visual_Question_Answering** folder.
 ```
 python infer.py --img_path "./sample/COCO_val2014_000000262376.jpg" --question "Is this a big building ?"
 ```
