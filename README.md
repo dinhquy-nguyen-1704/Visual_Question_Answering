@@ -24,9 +24,11 @@ You can download the vqa-coco-dataset [here](https://drive.google.com/file/d/1kc
   - 📁 CNN_LSTM
   - 📁 ViT_RoBERTa
   - 📁 src
+  - 📁 sample
   - 🐍 main_CLIP.py
   - 🐍 main_CNN_LSTM.py
   - 🐍 main_ViT_RoBERTa.py
+  - 🐍 infer.py
   - 📄 README.md
 
 <p align="center">
