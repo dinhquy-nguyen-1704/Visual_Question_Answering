@@ -65,19 +65,20 @@ If you want to use CLIP as the Encoders and MLP for the Classifier:
 ```
 python main_CLIP.py --clip_model_type ViT-B-32 --clip_pretrained laion2b_e16
 ```
-## 4. Sample
-I have prepared a **sample** folder that includes some pairs of images and related questions. You can quickly test the version using the pretrained CLIP, download the pretrained model [here](https://drive.google.com/file/d/1ImjfxHVFkPXZvwri_MiBNV2OWu5Dl2D1/view?usp=sharing):
-```
-python infer.py --img_path "./sample/COCO_val2014_000000262376.jpg" --question "Is this a big building ?"
-```
 
-## 5. Result
+## 4. Result
 The metric used in this task is accuracy, the result is evaluated on the Test set of the Dataset.
 | Image Encoder  | Text Encoder | Accuracy |
 |----------------|--------------|----------|
 | CNN            | LSTM         | 54%      |
 | ViT            | RoBERTa      | 63%      |
 | CLIP           | CLIP         | 73%      |
+
+## 5. Sample
+I have prepared a **sample** folder that includes some pairs of images and related questions. You can quickly test the version using the pretrained CLIP, download the pretrained model [here](https://drive.google.com/file/d/1ImjfxHVFkPXZvwri_MiBNV2OWu5Dl2D1/view?usp=sharing):
+```
+python infer.py --img_path "./sample/COCO_val2014_000000262376.jpg" --question "Is this a big building ?"
+```
 
 ## 6. References
 - AIO2023
