@@ -1,0 +1,10 @@
+COCO_val2014_000000262162.jpg - Are there any boxes in the room ? no
+COCO_val2014_000000393277.jpg - Are there any any tour buses ? no
+COCO_val2014_000000393284.jpg - Is this person flying ? no
+COCO_val2014_000000262376.jpg - Is this a big building ? yes
+COCO_val2014_000000524611.jpg - Could this be parking lot for bikes ? no
+COCO_val2014_000000524621.jpg - Is this a man made exhibit ? no
+COCO_val2014_000000524621.jpg - Is this a zoo ? no
+COCO_val2014_000000000357.jpg - Is this a professional game ? yes
+COCO_val2014_000000262608.jpg - Is this a sandwich with a bun ? no
+COCO_val2014_000000131539.jpg - Are there any any clouds in the sky ? no

@@ -1,3 +1,4 @@
+
 import argparse
 
 def get_config():
@@ -18,6 +19,8 @@ def get_config():
     parser.add_argument('--clip_model_type', type=str, default='ViT-B-32')
     parser.add_argument('--clip_pretrained', type=str, default='laion2b_e16')
     parser.add_argument('--cnn_model_name', type=str, default='resnet50')
+    parser.add_argument('--img_path', type=str, default='None')  
+    parser.add_argument('--question', type=str, default='None')       
 
     args = parser.parse_args()
 
